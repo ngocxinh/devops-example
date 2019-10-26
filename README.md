@@ -1,3 +1,8 @@
 # devops-example
 
-# Updte
+# Update ngoc xinh
+
+featureB update 1
+
+featureB update 2
+
