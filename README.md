@@ -1,1 +1,1 @@
-# devops-exams
+# devops-example
